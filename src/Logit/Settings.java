@@ -1,7 +1,7 @@
 package Logit;
 
-public class Settings {
+public class Settings{
 
-    //settings updated by doina
+    //settings updated by doina d
 
 }
