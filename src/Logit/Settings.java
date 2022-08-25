@@ -3,6 +3,6 @@ package Logit;
 public class Settings {
     ///
 
-    //settings class is created-sam
+    //settings class is created-doina
 
 }
